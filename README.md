@@ -59,3 +59,5 @@ Extra:
  - Project op github.
  - Link naar github via magister.
  - In de README link naar werkende site + links naar producten.
+ 
+ -----------------------------------------------------------------------------------------------------------------------------
