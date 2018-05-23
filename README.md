@@ -19,17 +19,17 @@ Eisen:
 6. Op een van de pagina's wordt gebruik gemaakt van AJAX.
 7. De site heeft een zoekfunctie en is volledig doorzoekbaar.
 8. De site heeft de volgende onderdelen:
-    A. Homepage: Hierop zijn nieuwsberichten te zien. Deze bevatten een titel, datum en foto.
+    - Homepage: Hierop zijn nieuwsberichten te zien. Deze bevatten een titel, datum en foto.
        Er wordt maar een aantal berichten getoond en doormiddel van een bladerfunctie worden er meer getoond.
-    B. Informatiepagina's: Hiervan zijn er minimaal 2. Deze pagina's tenminste deze informatie: Titel, tekst, media.
+    - Informatiepagina's: Hiervan zijn er minimaal 2. Deze pagina's tenminste deze informatie: Titel, tekst, media.
        Denk aan een disclaimer.
-    C. Agenda/events: Bijv. tourschema enz. Minimaal een lijst met naam, datum en locatie.
-    D. Zoekpagina: Deze site is volledig doorzoekbaar.
+    - Agenda/events: Bijv. tourschema enz. Minimaal een lijst met naam, datum en locatie.
+    - Zoekpagina: Deze site is volledig doorzoekbaar.
 9. De pagina's hebben tenminste de volgende elementen:
-    A. Header + logo, website-title, tagline;
-    B. Footer;
-    C. Sidebar;
-    D. Navigatie: De aangeklikte link heeft een andere vormgeving;
+    - Header + logo, website-title, tagline;
+    - Footer;
+    - Sidebar;
+    - Navigatie: De aangeklikte link heeft een andere vormgeving;
 10. Er is een 'basic' CMS voor de items. Deze is te bereiken door admin achter de URL te plaatsen.
 
 Extra:
