@@ -10,7 +10,8 @@ Datum: 23-05-2018
 Het doel is om een website te maken waar gebruikers op de hoogte worden gehouden van de laatste informatie,
 van bijvoorbeeld een artiest, community of een band. De website moet aan een aantal eisen voldoen.
 
-Eisen:
+
+<h6>Eisen:</h6>
 1. De content komt uit de database.
 2. De site is responsive.
 3. Er is een systeem waarmee te testen is hoe de gebruiker door de site heen gaat.
@@ -33,6 +34,7 @@ Eisen:
     - Navigatie: De aangeklikte link heeft een andere vormgeving;
 10. Er is een 'basic' CMS voor de items. Deze is te bereiken door admin achter de URL te plaatsen.
 
+
 Extra:
 1. Uitgebreid CMS waarin je pagina's kunt beheren.
 2. Lazy loading met AJAX.
@@ -41,7 +43,8 @@ Extra:
 5. Een shopping systeem voor fan-ware.
 6. Reactiemogelijkheid.
 7. Een bug-ticketing systeem aan mislukte zoekacties, 404,JS error of "meld een probleem" knop.
-8. Een agenda of reserveringssysteem​ ​in Javascript met informatie uit PHP, binnengehaald via AJAX.
+8. Een agenda of reserveringssysteem in Javascript met informatie uit PHP, binnengehaald via AJAX.
+
 
 Documentatie:
 - Technisch Advies + schriftelijk advies.
@@ -51,9 +54,11 @@ Documentatie:
 - Ontwikkelomgeving.
 - Testrapporten.
   
+  
 Oplevering:
 - Opgeleverde website en beheer omgeving (CMS).
 - Evaluatie.
+
 
 Inleverwijze:
 - Project op github.
