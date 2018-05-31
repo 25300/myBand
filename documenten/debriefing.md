@@ -1,10 +1,11 @@
 Project: My Band <br>
 Auteur: Alisha van Caspel <br>
 Klas: MD1A
+Datum: 23-05-2018
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Debriefing 23-05-2018
+<h3>Debriefing<h3>
 
 Het doel is om een website te maken waar gebruikers op de hoogte worden gehouden van de laatste informatie,
 van bijvoorbeeld een artiest, community of een band. De website moet aan een aantal eisen voldoen.
