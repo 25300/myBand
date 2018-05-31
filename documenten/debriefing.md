@@ -11,7 +11,7 @@ Het doel is om een website te maken waar gebruikers op de hoogte worden gehouden
 van bijvoorbeeld een artiest, community of een band. De website moet aan een aantal eisen voldoen.
 
 
-<h6>Eisen:</h6>
+Eisen:
 1. De content komt uit de database.
 2. De site is responsive.
 3. Er is een systeem waarmee te testen is hoe de gebruiker door de site heen gaat.
