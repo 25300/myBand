@@ -1,4 +1,4 @@
-Project: My Band
+Project: My Band <br>
 Alisha van Caspel
 MD1A
 
