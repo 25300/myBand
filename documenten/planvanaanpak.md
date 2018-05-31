@@ -1,12 +1,8 @@
-Plan van aanpak
+Project: My Band <br>
+Auteur: Alisha van Caspel <br>
+Klas: MD1A
 
-Project: My Band
+------------------------------------------------------------------------------------------------------------------------------
 
-Alisha van Caspel
+<h3>Plan van aanpak<h3>
 
-MD1A
-
-
-
-
-<h2>Halo<h2>
