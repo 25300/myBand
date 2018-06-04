@@ -5,10 +5,11 @@ Datum: 31-05-2018
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-<h3>Plan van aanpak</h3>
+<h2>Plan van aanpak</h2>
 
 
-<b>Planning</b>
+
+<h3><b>Planning</b></h3>
 
 Week | Datum | Taak | Bijzonderheden
 ---- | ----- | ---- | --------------
@@ -22,4 +23,3 @@ Week 7 | 9 – 13 juli | Sprint 2 | Deadline: 13 juli 19:00
 Week 8 | 16 – 20 juli |	Presentatie + post mortem	
 Week 9 | 23 juli | - | Zomervakantie
 
-<b></b><br>
