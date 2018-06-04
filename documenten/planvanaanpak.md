@@ -1,13 +1,11 @@
+<h2>Plan van aanpak</h2>
+
 Project: My Band <br>
 Auteur: Alisha van Caspel <br>
 Klas: MD1A <br>
 Datum: 31-05-2018
 
 ------------------------------------------------------------------------------------------------------------------------------
-
-<h2>Plan van aanpak</h2>
-
-
 
 <h3><b>Planning</b></h3>
 
