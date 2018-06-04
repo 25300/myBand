@@ -1,7 +1,7 @@
 # myBand
-Project: My band
 
-Auteur: Alisha van Caspel
-Klas: MD1A
+Project: My band <br>
+Auteur: Alisha van Caspel <br>
+Klas: MD1A <br>
 
 ------------------------------------------------------------------------------------------------------------------------------
