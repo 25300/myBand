@@ -1,0 +1,99 @@
+    /*FORM*/
+
+.contact {
+    margin: 0 0 40px;
+}
+
+.contact__container {
+    display: grid;
+    justify-items: center;
+
+}
+
+.contact__title {
+    font-size: 20px;
+    margin: 0 0 2px;
+}
+
+.contact__message {
+    margin: 0 0 20px;
+}
+
+.contact__form {
+    display: grid;
+}
+
+.contact__label {
+    margin-bottom: 5px;
+}
+
+.contact__input {
+    padding: 5px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.select {
+    margin: 0 0 25px;
+    height: 30px;
+    width: 300px;
+    border-radius: 0;
+    padding-left: 10px;
+    border: none;
+}
+
+    /*BUTTON*/
+
+.center--contact {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.submit__contact {
+    background: rgba(70, 70, 70, .9);
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+}
+
+.submit__contact:hover {
+    background-color: rgba(70, 70, 70, .6);
+    cursor: pointer;
+}
+
+    /*SOCIALMEDIA*/
+
+.contact__text {
+    padding-left: 10px;
+    width: 400px;
+}
+
+.contact__socialmedia {
+    display: flex;
+}
+
+.padding {
+    padding-left: 20px;
+}
+
+.contact__link:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+.icon {
+    font-size: 25px;
+    color: #464646;
+    transition: color .25s, transform .25s;
+}
+
+.icon:hover {
+    color: rgba(71, 117, 110, .8);
+    transform: translateY(-5px);
+}

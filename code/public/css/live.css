@@ -1,0 +1,58 @@
+/* .title css is in home.css */
+
+.table {
+    margin: 0 0 40px 0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 50%;
+}
+
+td {
+    border-bottom: 2px solid #eee;
+    padding: 8px;
+    text-align: left;
+}
+
+.ticketlink {
+    background: rgba(71, 117, 110, .8);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    display: inline-block;
+    font-size: 16px;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.ticketlink:hover {
+    background-color: rgba(71, 117, 110, .4);
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 750px) {
+    table {
+        width: 90%;
+    }
+
+    table, thead, tbody, th, td, tr {
+        display: block;
+    }
+
+    thead tr {
+        position: absolute;
+    }
+
+    tr { border: 1px solid #ccc; }
+
+    td {
+        border: none;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 8px;
+        position: relative;
+        text-align: center;
+    }
+}

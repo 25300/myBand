@@ -1,0 +1,167 @@
+.news {
+    display: grid;
+    justify-content: center;
+}
+
+    /*FORM*/
+
+.news__wrapper {
+    margin: -20px 0 10px;
+}
+
+.news__form {
+    float: right;
+}
+
+.news__input {
+    padding: 5px;
+    font-size: 13px;
+    border: 1px solid #ccc;
+    color: #464646;
+    font-family: 'Raleway', sans-serif;
+}
+.news__button {
+    font-family: 'Raleway', sans-serif;
+    background: rgba(70, 70, 70, .9);
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #ffffff;
+    font-size: 13px;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+}
+
+.news__button:hover {
+    background-color: rgba(70, 70, 70, .6);
+    cursor: pointer;
+}
+    /*ARTICLES*/
+
+.news__article {
+    border: 1px solid #ccc;
+    box-shadow: 5px 2px 26px rgba(0, 0, 0, .2);
+    width: 70vw;
+    margin: 0 0 40px;
+    position: relative;
+    max-width: 1010px;
+    min-width: 900px;
+}
+
+.news__container {
+    padding: 1.5rem;
+}
+
+
+
+.news__date {
+    margin: 0 0 10px;
+}
+
+.news__row {
+    width: 70%;
+    display: block;
+    float: left;
+    margin: 0 0 1.5rem;
+}
+
+.news__column {
+    display: block;
+    float: left;
+    width: 30%;
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    min-width: 300px;
+}
+
+.clear {
+    clear: both;
+}
+
+.news__title {
+    margin: 0 0 10px;
+    padding: 0;
+}
+
+.news__text {
+    margin: 0;
+    padding: 0 3rem 0 0;
+}
+
+.news__img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.news__link {
+    color: #5B2E48;
+}
+
+.news__link:hover {
+    color: #946E83;
+}
+
+    /*PAGINATION*/
+
+.news__pagination {
+    margin: 0 0 40px;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.news__number {
+    margin: 0 10px;
+}
+
+.arrow {
+    color: #000;
+    text-decoration: none;
+}
+
+.arrow:visited {
+    color: #000;
+}
+
+    /*BREAKPOINTS*/
+
+@media only screen and (max-width: 940px) {
+    .news__article {
+        min-width: 320px;
+    }
+
+    .news__row {
+        float: none;
+        width: 100%;
+    }
+
+    .news__text {
+        padding: 0;
+    }
+
+    .news__column {
+        float: none;
+        position: relative;
+        right: 0;
+        top: 0;
+        transform: translateY(0);
+        margin: 0 0 20px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .news__article {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .news__column {
+        width: 100%;
+        min-width: 100%;
+    }
+}
